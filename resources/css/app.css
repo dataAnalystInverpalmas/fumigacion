@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback');
+@import 'admin-lte/dist/css/adminlte.min.css';
+@import 'admin-lte/plugins/fontawesome-free/css/all.min.css';
+ @import 'bootstrap/dist/css/bootstrap.css';
+@import 'bootstrap-vue/dist/bootstrap-vue.css';
+@import 'bootstrap';
+@import 'datatables.net-bs5';
+@import  'toastr/build/toastr.min.css';
+@import  'sweetalert2/dist/sweetalert2.min.css';
+@import 'datatables.net-responsive-bs5/css/responsive.bootstrap5.min.css';
+@import  'select2-bootstrap-5-theme/dist/select2-bootstrap-5-theme.min.css';
+ 
